@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Learn jQuery",
+        "description": "This book was written for anyone who wants to use JavaScript to make their websites a little more interesting, engaging, interactive, or usable.",
+        "price": 10,
+        "imgURL": "http://placehold.it/400x250/000/fff?text=jQuery"
+
+    },
+    {
+        "title": "JavaScript and JQuery",
+        "description": "This book was written for anyone who wants to use JavaScript to make their websites a little more interesting, engaging, interactive, or usable.",
+        "price": 20,
+        "imgURL": "http://placehold.it/400x250/000/fff?text=Javascript"
+    },
+    {
+        "title": "React with TypeScript 3",
+        "description": "This book was written for anyone who wants to use JavaScript to make their websites a little more interesting, engaging, interactive, or usable.",
+        "price": 30,
+        "imgURL": "http://placehold.it/400x250/000/fff?text=TypeScript"
+    },
+    {
+        "title": "Learn React",
+        "description": "This book was written for anyone who wants to use JavaScript to make their websites a little more interesting, engaging, interactive, or usable.",
+        "price": 40,
+        "imgURL": "http://placehold.it/400x250/000/fff?text=React"
+    },
+    {
+        "title": "Learn Angular",
+        "description": "This book was written for anyone who wants to use JavaScript to make their websites a little more interesting, engaging, interactive, or usable.",
+        "price": 50,
+        "imgURL": "http://placehold.it/400x250/000/fff?text=Angular"
+    },
+    {
+        "title": "Learn Python",
+        "description": "This book was written for anyone who wants to use JavaScript to make their websites a little more interesting, engaging, interactive, or usable.",
+        "price": 60,
+        "imgURL": "http://placehold.it/400x250/000/fff?text=Python"
+    }
+]
+  
